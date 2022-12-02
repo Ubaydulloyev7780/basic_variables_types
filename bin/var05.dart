@@ -8,5 +8,9 @@ Print two of them.
 */
 
 void main() {
-  // write your code here
+int x,y;
+x=45;
+y=54;
+print(x);
+print(y);  // write your code here
 }

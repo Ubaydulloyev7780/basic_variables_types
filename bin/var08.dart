@@ -5,5 +5,7 @@ Create a string  variable that contains  letters and numbers
 */
 
 void main() {
-  // write your code here
+ string a, b;
+ a ='hello';
+ b = 's8893dorjharbo87'; // write your code here
 }

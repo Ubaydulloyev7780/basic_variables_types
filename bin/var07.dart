@@ -8,5 +8,9 @@ Print two of them.
 */
 
 void main() {
-  // write your code here
+double a, b;
+a = 3;
+b = 4.23;
+print(a);
+print(b);  // write your code here
 }
